@@ -36,7 +36,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Koa-33333D?logo=Koa&logoColor=white&style=flat" /><span>
-<span><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=Koa&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=Supabase&logoColor=white&style=flat" /><span>
 
 ### Others
 <span><img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white&style=flat" /><span>
