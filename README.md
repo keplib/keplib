@@ -17,8 +17,8 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 ### Languages
 
 <span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?logo=HTML5&logoColor=white&style=flat" /><span>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=HTML5&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/JS-F7DF1E?logo=JavaScript&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
 
 
