@@ -19,7 +19,7 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/HTML-ColourCode?logo=HTML5&logoColor=E34F26&style=flat" />
+        <img src="https://img.shields.io/badge/HTML-ColourCode?logo=HTML5&logoColor=DD0031&style=flat" />
       </td>
       <td>
           <img alt="CSS" height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
