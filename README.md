@@ -48,10 +48,14 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 <span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" /><span>
+
 
 
  ## Stats
   
  <img src="https://github-readme-stats.vercel.app/api?username=keplib&count_private=true&theme=radical&show_icons=true" />
+
  
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=keplib &layout=compact />
