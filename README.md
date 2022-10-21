@@ -42,7 +42,7 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 
 
 ### Frontend frameworks
-<table>
+<table cellspacing="0" cellpadding="0" style="border: none;">
   <tbody>
     <tr>
       <td>
