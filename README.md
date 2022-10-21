@@ -19,87 +19,28 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 <span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/JS-F7DF1E?logo=JavaScript&logoColor=white&style=flat" /><span>
-<span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
-
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-          <img alt="JS" height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-      </td>
-      <td>
-          <img alt="TS" height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
-      </td>
-      <td>
-          <img alt="Python" height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
-      </td>
-      <td>
-        <img alt="Swift" height="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<span><img src="https://img.shields.io/badge/TS-3178C6?logo=TypeScript&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=flat" /><span>
 
 ### Frontend frameworks
-<table cellspacing="0" cellpadding="0" style="border: none;">
-  <tbody>
-    <tr>
-      <td>
-        <img alt="React"height="50"  src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
-      </td>
-      <td>
-        <img alt="Angular" height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"/>
-      </td>
-      <td>
-        <img alt="Vue" height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"/>
-      </td>
-      <td>
-          <img alt="Redux"height="50"  src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
-
+<span><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/TS-3178C6?logo=TypeScript&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" /><span>
+  
 ### Backend
-<table>
-  <tbody>
-    <tr>
-      <td>
-          <img alt="Node" height="50"  src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
-      </td>
-      <td>
-          <img alt="Express" height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
-      </td>
-      <td>
-          <img alt="MongoDB" height="50"  src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
-      </td>
-      <td>
-          <img alt="Postgres" height="50"  src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
-      </td>
-      <td>
-          <img alt="AWS" height="50"  src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"/>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
-<span><img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" /></span>
-<span><img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" /></span>
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" />
+<span><img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/AWS-232F3E?logo=Amazon AWS&logoColor=white&style=flat" /><span>
+  
+  
+  
 
 ###
 
