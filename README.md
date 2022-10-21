@@ -92,6 +92,8 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 </table>
 
 <img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" />
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" />
+<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=3M&logoColor=FF000&style=flat" />
 
 ###
 
