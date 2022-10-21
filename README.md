@@ -15,14 +15,20 @@ Outside of programming I enjoy music, creative coding and biking and cooking.
 ## My tech stack
 
 ### Languages
+
+<span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?logo=HTML5&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=HTML5&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" /><span>
+
+
+
 <table>
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=flat" />
       </td>
       <td>
-          <img alt="CSS" height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
       </td>
       <td>
           <img alt="JS" height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
