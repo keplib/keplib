@@ -4,7 +4,7 @@ I'm a fullstack engineer based in Barcelona, Spain. <br><br>
 I have a strong background in science (degrees in physics and audio engineering) and 5+ years business experience working in tech companies (mainly in product). <br><br>
 I started coding with Python during my studies and got familiar with creative coding and IoT while working with sound (p5.js, Processing, Arduino, Supercollider). In the last two years I've been focusing on leveling up my web development skills. 
 
-Outside of programming I enjoy music, creative coding and biking and cooking. 
+Outside of programming I enjoy music, creative coding, biking and cooking. 
 
 
 - 🔭 I’m currently working on Huddler in a team of six fellow developers. 
