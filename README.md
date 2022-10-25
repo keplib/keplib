@@ -20,6 +20,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/TS-3178C6?logo=TypeScript&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/JQuery-F7DF1E?logo=jQuery&logoColor=white&style=flat" /><span>
 
 ### Frontend frameworks
 <span><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /><span>
