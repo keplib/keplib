@@ -50,7 +50,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual Studio Code&logoColor=white&style=flat" /><span>
-
+<span><img src="https://img.shields.io/badge/Docker-007ACC?logo=Docker&logoColor=white&style=flat" /><span>
 
 
  ## Stats
