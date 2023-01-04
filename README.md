@@ -7,7 +7,7 @@ I started coding with Python during my studies in physics and got familiar with 
 Outside of programming I enjoy music, creative coding, biking and cooking. 
 
 
-- 🔭 I’m currently working on Huddler in a team of six fellow developers. 
+- 🔭 I’m currently working at wefox as a frontend engineer. 
 - 🌱 I’m currently learning Svelte, Deno and serverless architectures. 
 - 📬 You can contact me via <a href="mailto:keplib@gmail.com">e-mail</a> or on <a href="https://www.linkedin.com/in/balazskepli/">Linkedin</a>
 
