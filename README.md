@@ -8,7 +8,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 
 
 - 🔭 I’m currently working at wefox as a frontend engineer. 
-- 🌱 I’m currently learning Svelte, Deno and serverless architectures. 
+- 🌱 I’m currently learning Svelte, microservices and iOS development. 
 - 📬 You can contact me via <a href="mailto:keplib@gmail.com">e-mail</a> or on <a href="https://www.linkedin.com/in/balazskepli/">Linkedin</a>
 
 ## My tech stack
