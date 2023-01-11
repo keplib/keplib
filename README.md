@@ -20,7 +20,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/TS-3178C6?logo=TypeScript&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=flat" /><span>
-<span><img src="https://img.shields.io/badge/JQuery-F7DF1E?logo=jQuery&logoColor=white&style=flat" /><span>
+
 
 ### Frontend frameworks
 <span><img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" /><span>
@@ -28,6 +28,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/JQuery-F7DF1E?logo=jQuery&logoColor=white&style=flat" /><span>
 
 ### Backend
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" /><span>
