@@ -2,7 +2,7 @@
 
 I'm a fullstack engineer based in Barcelona, Spain. <br><br>
 I have a strong background in science (degrees in physics and audio engineering) and 5+ years business experience working for tech companies & start-ups (mainly in product). <br><br>
-I started coding with Python during my studies in physics and got familiar with creative coding + IoT during the years I worked with sound (p5.js, Processing, Arduino, Supercollider, Max/MSP). I have some knowledge and experience with AI/ML (Tensorflow & scikit). In the last two years I've been focusing on leveling up my web development skills. 
+I started coding with Python during my studies in physics and got familiar with creative coding + IoT during the years I worked with sound (p5.js, Processing, Arduino, Supercollider, Max/MSP). I have some knowledge and experience with AI/ML (Tensorflow & scikit). In the last two years I've been focusing on levelling up my web development skills. 
 
 Outside of programming I enjoy music, creative coding, biking and cooking. 
 
