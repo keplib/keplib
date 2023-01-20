@@ -29,6 +29,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=Tailwind CSS&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/JQuery-F7DF1E?logo=jQuery&logoColor=white&style=flat" /><span>
+<span><img src="https://img.shields.io/badge/Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" /><span>
 
 ### Backend
 <span><img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" /><span>
