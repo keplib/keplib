@@ -55,6 +55,7 @@ Outside of programming I enjoy music, creative coding, biking and cooking.
 <span><img src="https://img.shields.io/badge/Docker-007ACC?logo=Docker&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Cypress-007ACC?logo=Cypress&logoColor=white&style=flat" /><span>
 <span><img src="https://img.shields.io/badge/Playwright-2EAD33?logo=Playwright&logoColor=white&style=flat"/></span>
+<span><img src="https://img.shields.io/badge/GraphQL-2EAD33?logo=GraphQL-2EAD33&logoColor=white&style=flat"/></span>
 
 
  ## Stats
